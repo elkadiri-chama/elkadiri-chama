@@ -1,4 +1,4 @@
-# Hi, I'm CHAMA! 👋
+# Hi, I'm ELKADIRI CHAMA! 👋
 
 Welcome to my GitHub profile! I'm an IT professional passionate about **networking**, **system administration**, **cybersecurity**, and **cloud technologies**. I specialize in building and securing IT infrastructures, automating systems, and managing large-scale network environments. I’m always eager to expand my knowledge and stay up-to-date with the latest technologies.
 
@@ -48,8 +48,7 @@ Over the course of my career, I’ve worked on several projects that demonstrate
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[instagram]: 
+[linkedin]: https://www.linkedin.com/in/chama-elkadiri-908b48340/
 
