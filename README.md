@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm CHAMA! 👋
 
-<!--
-**elkadiri-chama/elkadiri-chama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an IT professional passionate about **networking**, **system administration**, **cybersecurity**, and **cloud technologies**. I specialize in building and securing IT infrastructures, automating systems, and managing large-scale network environments. I’m always eager to expand my knowledge and stay up-to-date with the latest technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I Focus On
+
+Here are some of the areas I specialize in:
+
+- **Programming & Scripting**: Python, Bash, PowerShell  
+- **Operating Systems**: Windows Server, Linux (Ubuntu, CentOS, Red Hat)  
+- **Networking**: TCP/IP, DNS, DHCP, Cisco networking  
+- **Cybersecurity**: Network Security, Firewalls, IDS/IPS, Penetration Testing  
+- **Cloud Computing**: AWS, Google Cloud, Virtualization  
+- **Concepts**: System and Network Administration, Data Structures, IT Security Fundamentals
+
+---
+
+## 🛠️ Skills & Technologies  
+
+💻 **Programming & Scripting:** Python | Bash | PowerShell  
+🖥️ **Operating Systems:** Windows Server | Linux (Ubuntu, CentOS, Red Hat)  
+📡 **Networking:** TCP/IP | IPAM | Cisco | DNS | DHCP | Network Configuration  
+🔒 **Cybersecurity & Security Tools:** Firewalls | IDS/IPS | Wireshark | Network Security  
+☁️ **Cloud & Automation:** AWS | Docker | Ansible  
+📊 **Monitoring & Management:** Nagios | PRTG | SIEM | Server & Network Monitoring
+
+---
+
+## 📚 Projects & Real-World Experience
+
+Over the course of my career, I’ve worked on several projects that demonstrate my expertise in IT infrastructure, networking, and cybersecurity:
+
+
+## 🚀 Future Goals
+
+- Contribute to **open-source projects** focused on network automation and cloud security.
+- **Earn certifications** in **AWS** and **CompTIA Security+** to further validate my expertise.
+- Continuously improve my knowledge of **cybersecurity** and **cloud-native technologies**.
+
+---
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
+
