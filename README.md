@@ -28,11 +28,6 @@ Here are some of the areas I specialize in:
 
 ---
 
-## 📚 Projects & Real-World Experience
-
-Over the course of my career, I’ve worked on several projects that demonstrate my expertise in IT infrastructure, networking, and cybersecurity:
-
-
 ## 🚀 Future Goals
 
 - Contribute to **open-source projects** focused on network automation and cloud security.
